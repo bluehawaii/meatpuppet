@@ -1,2 +1,1 @@
-puts "bonjour"
-puts "hi there"
+puts "Best App EVAR!"
