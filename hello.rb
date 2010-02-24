@@ -1,2 +1,1 @@
-puts "hello"
-puts "hi there"
+puts "My boss is the best boss ever!" 
